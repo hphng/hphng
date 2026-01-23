@@ -1,7 +1,7 @@
 # 🌟 Hi, I'm Huy Phung!
 
 🔭 I’m currently majoring in **Computer Science** at **DePauw University**  
-🌱 Learning **web & app development**, but always open to exploring new fields  
+🌱 Learning **Cloud and AI Engineer**, focus on **AWS**, but always open to exploring new fields  
 💡 Passionate about building real-world applications, solving problems, and continuous learning  
 📬 Open to collaboration on exciting projects!
 
@@ -25,6 +25,16 @@
 ---
 
 ## ⚙️ Frameworks & Libraries
+
+---
+
+## ☁️ Cloud, Hosting & Deployment
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
 
 ### 🖥️ Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -68,13 +78,6 @@
 
 ---
 
-## ☁️ Cloud, Hosting & Deployment
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
 
 # 📊 GitHub Stats
 ![](https://komarev.com/ghpvc/?username=hphng)  
