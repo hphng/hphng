@@ -15,10 +15,10 @@ Software engineer building a medical AI platform at [Venera AI](https://viai.io)
 
 **Side projects**
 
+- [bedrock-generative-AI](https://github.com/hphng/bedrock-generative-AI): RAG knowledge base on AWS Bedrock with an Aurora Serverless vector store and S3, provisioned end to end with Terraform
 - [system-design-simulation](https://github.com/hphng/system-design-simulation): interactive system design whiteboard with chaos testing. Draw an architecture, then inject random node failures and watch which request paths break and recover in real time. Next.js, React Flow
 - [NoteScribe](https://github.com/hphng/NoteScribe): AI transcription and translation into 50+ languages, built so hearing-impaired students can follow lectures. React, Express, MongoDB, S3. [Live demo](https://notetranscribe.vercel.app)
 - [hashing](https://github.com/hphng/hashing): 11 hashing structures built from scratch in C++, from linear probing and Robin Hood to consistent hashing, Bloom filters, and Count-Min Sketch. [Docs](https://hphng.github.io/hashing/)
-- [bedrock-generative-AI](https://github.com/hphng/bedrock-generative-AI): RAG knowledge base on AWS Bedrock with an Aurora Serverless vector store and S3, provisioned end to end with Terraform
 
 <br>
 
