@@ -1,86 +1,30 @@
-# 🌟 Hi, I'm Huy Phung!
+### Hi, I'm Huy 👋
 
-🔭 I’m currently majoring in **Computer Science** at **DePauw University**  
-🌱 Learning **Cloud and AI Engineer**, focus on **AWS**, but always open to exploring new fields  
-💡 Passionate about building real-world applications, solving problems, and continuous learning  
-📬 Open to collaboration on exciting projects!
+Cloud & platform engineer. I run the infrastructure behind [Venera AI](https://viai.io)'s medical AI platform, and I fix bugs in the open-source tools I use.
 
----
+- **Now** — Kubernetes on Azure (AKS), GitOps with FluxCD, IaC with OpenTofu, CI/CD and observability
+- **Open source** — contributor to TensorFlow and WezTerm
+- **Background** — CS @ DePauw University · Amazon Future Engineer Scholar
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huyphung2025/)
+<br>
 
----
+**Open source**
 
-# 💻 Tech Stack
+- **tensorflow/tensorflow** — profiler crash on null/bad input [#126770](https://github.com/tensorflow/tensorflow/pull/126770) · `tf.data` service segfaults on unstarted servers [#126442](https://github.com/tensorflow/tensorflow/pull/126442) · double-unlock bug [#125649](https://github.com/tensorflow/tensorflow/pull/125649)
+- **wezterm/wezterm** — bottom tab bar [#8018](https://github.com/wezterm/wezterm/pull/8018) · better default font weights [#8097](https://github.com/wezterm/wezterm/pull/8097)
 
-## 🧠 Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+**Side projects**
 
----
+- [bedrock-generative-AI](https://github.com/hphng/bedrock-generative-AI) — AWS Bedrock + Aurora Serverless + S3, provisioned with Terraform
+- [rate-limiter](https://github.com/hphng/rate-limiter) — FastAPI service with a rate limiter in front of Claude
+- [hashing](https://github.com/hphng/hashing) — hashing strategies implemented from scratch in C++
 
-## ⚙️ Frameworks & Libraries
+<br>
 
----
+**Stack**
 
-## ☁️ Cloud, Hosting & Deployment
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+[![Stack](https://skillicons.dev/icons?i=azure,aws,kubernetes,terraform,python,cpp)](https://skillicons.dev)
 
----
+<br>
 
-### 🖥️ Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-
-### 🛠️ Dev Tools / Build Tools
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### 📊 Data Science / Machine Learning
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
----
-
-## 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-
----
-
-
-# 📊 GitHub Stats
-![](https://komarev.com/ghpvc/?username=hphng)  
-![](https://github-readme-stats.vercel.app/api?username=hphng&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=hphng&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hphng&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[LinkedIn](https://www.linkedin.com/in/huyphung2025/)
