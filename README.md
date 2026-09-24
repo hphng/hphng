@@ -5,7 +5,7 @@ Software engineer building a medical AI platform at [Venera AI](https://viai.io)
 - **Education:** CS @ DePauw University · Amazon Future Engineer Scholar
 - **Built:** deploy pipeline and Kubernetes platform that ships a medical AI product to production
 - **Learning:** system design, currently reading *Designing Data-Intensive Applications*
-- **Certified:** AWS Certified Solutions Architect Associate (SAA-C03)
+- **Certification:** [AWS Certified Solutions Architect Associate (SAA-C03)](https://www.credly.com/badges/5058a922-98eb-411b-9c27-0870a568b21d/public_url)
 
 <br>
 
