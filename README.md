@@ -2,7 +2,8 @@
 
 Software engineer building a medical AI platform at [Venera AI](https://viai.io). Open-source contributor at [@tensorflow](https://github.com/tensorflow) and [@wezterm](https://github.com/wezterm).
 
-- **Now:** Built the deploy pipeline and Kubernetes platform that ships a medical AI product to production
+- **Built:** deploy pipeline and Kubernetes platform that ships a medical AI product to production
+- **Learning:** system design, currently reading *Designing Data-Intensive Applications*
 - **Certified:** AWS Certified Solutions Architect Associate (SAA-C03)
 - **Education:** CS @ DePauw University · Amazon Future Engineer Scholar
 
