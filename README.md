@@ -1,6 +1,6 @@
 ### Hi, I'm Huy 👋
 
-Software engineer. I build a medical AI platform at [Venera AI](https://viai.io), and I fix bugs in the open-source tools I use.
+Software engineer building a medical AI platform at [Venera AI](https://viai.io). Open-source contributor at [@tensorflow](https://github.com/tensorflow) and [@wezterm](https://github.com/wezterm).
 
 - **Now:** backend services and cloud infrastructure at Venera AI
 - **Certified:** AWS Certified Solutions Architect Associate (SAA-C03)
@@ -15,6 +15,7 @@ Software engineer. I build a medical AI platform at [Venera AI](https://viai.io)
 
 **Side projects**
 
+- [system-design-simulation](https://github.com/hphng/system-design-simulation): sketch a system architecture on a canvas, then inject random node failures and watch which request paths break and recover. Built with Next.js and React Flow
 - [NoteScribe](https://github.com/hphng/NoteScribe): AI speech-to-text transcription and translation, built to make lectures accessible for hearing-impaired students. [Live demo](https://notetranscribe.vercel.app)
 - [bedrock-generative-AI](https://github.com/hphng/bedrock-generative-AI): RAG knowledge base on AWS Bedrock with an Aurora Serverless vector store and S3, fully provisioned with Terraform
 - [hashing](https://github.com/hphng/hashing): every major hashing strategy, from chaining to Robin Hood, implemented from scratch in C++. [Docs](https://hphng.github.io/hashing/)
